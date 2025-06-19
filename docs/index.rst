@@ -8,7 +8,7 @@ Mozilla Thunderbird is an open-source, cross-platform email application that hel
 
 In this guide, we will show you how to install Thunderbird on different operating systems, along with a few steps for configuring the application for first-time use.
 
-.. image:: click-download.png
+.. image:: install-now.png
    :alt: My Project Logo
    :width: 400px
    :align: center
